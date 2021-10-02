@@ -3,8 +3,6 @@ A simple device to display the current Background Radiation Level in a fun and i
 
 This is a proof of concept device. It measures the Alpha, Beta, and Gamma particles (if available) currently present in the area occupied by the attached Geigar Tube.
 
-High voltage generation for the Geiger tube is handled by an HV daughter-board (lessons learned).
-
 Schematic:
 ![schem](https://user-images.githubusercontent.com/2049284/135704511-84ba261d-7ba6-4764-8981-f28329bade83.png)
 
